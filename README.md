@@ -1,1 +1,1 @@
-# th-skillhub-docs
+# Docs
